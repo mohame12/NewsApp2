@@ -1,6 +1,6 @@
 # newsapp2
 
-NewsApp By using NewsApi and Cubit as Statemangement
+NewsApp By using NewsApi and Cubit as Statemangement and show it in WebViewWidget
 
 ## Getting Started
 ![WhatsApp Image 2024-07-14 at 8 04 27 PM](https://github.com/user-attachments/assets/b50564ce-f5f1-4092-ad52-e005fa761e3c)
