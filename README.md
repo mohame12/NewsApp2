@@ -8,6 +8,7 @@ NewsApp By using NewsApi and Cubit as Statemangement
 ![WhatsApp Image 2024-07-14 at 8 04 27 PM](https://github.com/user-attachments/assets/4bd59173-5bf4-4805-b9fa-b59e7a1cf763)
 ![WhatsApp Image 2024-07-14 at 8 04 27 PM](https://github.com/user-attachments/assets/7dd43361-33ac-49c4-94c5-739363674881)
 ![WhatsApp Image 2024-07-14 at 8 04 28 PM](https://github.com/user-attachments/assets/16e05586-4d4e-47bf-b370-78dc74812c9b)
+![WhatsApp Image 2024-07-14 at 11 37 26 PM](https://github.com/user-attachments/assets/1cb36753-ff91-4a97-b92f-6241d2cd69a6)
 
 
 
